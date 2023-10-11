@@ -1,0 +1,15 @@
+{
+    "color": "#5e5e5e",
+    "header": {
+        "color": "#ffffff",
+        "backgroundColor": "#F47373",
+        "borderRadius": 7,
+        "fontWeight": "bold",
+        "boxShadow": "3px 3px 5px 6px #cccccc"
+    },
+    "fontSize": 15,
+    "boxShadow": "3px 3px 5px 6px #cccccc",
+    "fontWeight": "bold",
+    "borderRadius": 7,
+    "backgroundColor": "#ffffff"
+}
